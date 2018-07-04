@@ -1,4 +1,4 @@
-# WeDeploy Docker Tutorial
+# WeDeploy Liferay CE Tutorial
 
 This template will help you through the process of deploying a Docker project on WeDeploy.
 
